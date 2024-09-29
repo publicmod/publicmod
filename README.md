@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @publicmod
-- 👀 I’m interested in provide mods 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with another proyects
 
