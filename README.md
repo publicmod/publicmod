@@ -1,7 +1,5 @@
 ### 🚀 Sobre mí
 
-Desarrollador apasionado por la tecnología y el código abierto. 
-
 - 💼 Abierto a colaborar en: **Proyectos de código abierto**.
 
 ---
@@ -15,8 +13,8 @@ Desarrollador apasionado por la tecnología y el código abierto.
 ### 🏆 Destacados
 
 - **Proyectos más relevantes:**  
-  - [**PublicPlay**](https://github.com/publicmod/PublicPlay) – Breve descripción.
-  - [**PublicVisor**](https://github.com/publicmod/PublicView) – Breve descripción.
+  - [**PublicPlay**](https://github.com/publicmod/PublicPlay) – Moderna Aplicación Web para ver películas completamente Gratis.
+  - [**PublicVisor**](https://github.com/publicmod/PublicView) – Un simple y potente Visor Html.
 
 ---
 
